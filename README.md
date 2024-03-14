@@ -1,6 +1,4 @@
-Github Profile Finder
-REACT JS HTML CSS 
-GITHUB API
+# Github Profile Finder
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
